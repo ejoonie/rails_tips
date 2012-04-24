@@ -1,0 +1,5 @@
+nfstab ??
+/etc/init/xxx.conf
+/export/your_sub_directory
+access list for exports file ??
+
