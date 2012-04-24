@@ -1,0 +1,1 @@
+redirect_to xxx and return if blah, blah ... # you should use return if the logic does 
